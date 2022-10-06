@@ -16,7 +16,7 @@ Para armazenamento em banco de dados e autenticação de usuários, foi utilizad
 
 O App foi construído durante o evento Ignite Lab React-Native da Rocketseat, evento que durou uma semana de muito aprendizado com Typescript e mão na massa. 🚀🧑‍🚀
 
-Para construção desse projeto também foram utilizadas bibliotecas muito interessante para produtividade e estilização, como por exemplo o Native-Base, que é um biblioteca de componentes que permite uma maior produtividade e uma estilização completa e aperfeiçoada. Além disso, foi necessário a utilização do expo bare workflow, por conta da integração com o firebase, que não é possível ser realizada emulando o app via Expo go. 
+Para construção desse projeto também foram utilizadas bibliotecas muito interessantes para produtividade e estilização, como por exemplo o Native-Base, que é um biblioteca de componentes que permite uma maior produtividade e uma estilização completa e aperfeiçoada. Além disso, foi necessário a utilização do expo bare workflow, por conta da integração com o firebase, que não é possível ser realizada emulando o app via Expo go. 
 
 
 ## :bulb: Tecnologias usadas:
