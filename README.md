@@ -8,15 +8,15 @@ Rocket Help é um App de chamados de Serviços, ideal para empresas de médio e 
 
 O App foi construído com React Native, uma biblioteca Javascript, utilizada para criação de aplicativos móveis de maneira nativa. O projeto foi desenvolvido para ambas as plataformas operacionais, tanto Android, quando IOS, em um único código base, e ainda sim mantendo um bom desempenho e responsividade.
 
-A tela inicial do app mostra as Solicitações dividias filtradas de acordo com o seu respectivo status, "Em andamento" ou "Finalizados", que permite um controle e visualização melhor sobre as solicitações. Na página inicial é possível solicitar uma nova solicitação, clicando no botão que redicionára para a tela de preenchimento das informações.
+A tela inicial do app mostra as Solicitações dividias filtradas de acordo com o seu respectivo status, "Em andamento" ou "Finalizados", que permite um controle e visualização melhor sobre as solicitações. Na página inicial é possível solicitar uma nova solicitação, clicando no botão que redirecionará para a tela de preenchimento das informações.
 
 Clicando sobre cada solicitação é aberta uma tela com detalhes e status referentes à solicitação. Caso o Status seja de Andamento, o técnico é capaz de preencher o campo de solução e postar como concluída o serviço.
 
-Para armezenamento em banco de dados e autenticação de usuários, foi utilizado o banco de dados não relacionais (firestore) do Firebase, plataforma de serviço do google para construção de back-end de aplicações, entre outras funcionalidades.
+Para armazenamento em banco de dados e autenticação de usuários, foi utilizado o banco de dados não relacionais (firestore) do Firebase, plataforma de serviço do google para construção de back-end de aplicações, entre outras funcionalidades.
 
-O App foi construído durante o evento Ignite Lab React-Native da Rockseat, evento que durou uma semana de muito aprendizado com Typescript e mão na massa. 🚀🧑‍🚀
+O App foi construído durante o evento Ignite Lab React-Native da Rocketseat, evento que durou uma semana de muito aprendizado com Typescript e mão na massa. 🚀🧑‍🚀
 
-Para construção desse projeto também foram utilizadas bibliotecas muito interressante para produtividade e estilização, como por exemplo o Native-Base, que é um biblioteca de componentes que permite uma maior produtividade e uma estilização completa e aperfeiçoada. Além disso, foi necessário a utilização do expo bare workflow, por conta da integração com o firebase, que não é possível ser realizada emulando o app via Expo go. 
+Para construção desse projeto também foram utilizadas bibliotecas muito interessante para produtividade e estilização, como por exemplo o Native-Base, que é um biblioteca de componentes que permite uma maior produtividade e uma estilização completa e aperfeiçoada. Além disso, foi necessário a utilização do expo bare workflow, por conta da integração com o firebase, que não é possível ser realizada emulando o app via Expo go. 
 
 
 ## :bulb: Tecnologias usadas:
